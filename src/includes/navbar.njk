@@ -1,0 +1,52 @@
+<div class="w-full bg-base-100 shadow-sm">
+	<header class="navbar max-w-5xl mx-auto">
+		<div class="navbar-start">
+			<a href="/" class="lg:absolute lg:translate-y-4"><img src="{{ '/favicon.svg' | url }}" alt="HMG Logo" class="h-16 lg:h-24 "/></a>
+			<div>
+				<p class="pl-0 lg:pl-24 mx-4 text-xl hidden lg:flex">Hopman Masselman Groep</p>
+			</div>
+			<div class="dropdown px-4">
+				<div tabindex="0" role="button" class="btn btn-ghost lg:hidden" aria-label="Menu">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24"
+						stroke="currentColor">
+						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" />
+					</svg>
+				</div>
+				<ul tabindex="0" class="menu menu-md dropdown-content bg-base-100 rounded-box z-1 mt-3 w-58 p-2 shadow">
+					<li>
+						<p class="hover:underline">Over de HMG</p>
+						<ul class="p-2">
+							<li><a href="/wat-is-scouting" class="hover:underline">Wat is scouting?</a></li>
+							<li><a href="/wat-is-de-HMG" class="hover:underline">Wat is de HMG?</a></li>
+							<li><a href="/lidmaatschap" class="hover:underline">Het lidmaatschap</a></li>
+							<li><a href="/vrienden-van" class="hover:underline">Vrienden van de HMG</a></li>
+						</ul>
+					</li>
+					<li><a href="/verhuur" class="hover:underline">Verhuur</a></li>
+					<li><a href="/contact" class="hover:underline">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="navbar-center hidden lg:flex">
+			
+		</div>
+		<div class="navbar-end hidden lg:flex">
+			<ul class="menu menu-horizontal px-1 text-base mr-2">
+				<li>
+					<details>
+						<summary>Over de HMG</summary>
+						<ul class="p-2 w-48 shadow-lg border-base-200 border-2 z-10">
+							<li><a href="/wat-is-scouting" class="hover:underline">Wat is scouting?</a></li>
+							<li><a href="/wat-is-de-HMG" class="hover:underline">Wat is de HMG?</a></li>
+							<li><a href="/lidmaatschap" class="hover:underline">Het lidmaatschap</a></li>
+							<li><a href="/vrienden-van" class="hover:underline">Vrienden van de HMG</a></li>
+						</ul>
+					</details>
+				</li>
+				<li><a href="/verhuur" class="hover:underline">Verhuur</a></li>
+				<li><a href="/contact" class="hover:underline">Contact</a></li>
+			</ul>
+			<a class="btn btn-primary" href="/lid-worden">Word lid!</a>
+		</div>
+	</header>
+</div>

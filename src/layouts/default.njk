@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+	{% include "head.njk" %}
+</head>
+
+<body class="bg-base-300">
+	{% include "navbar.njk" %}
+
+	<div class="max-w-5xl my-10 mx-auto card bg-base-100 shadow-lg">
+		<div class="card-body">
+			<div class="prose prose-sm lg:prose-lg max-w-none">
+				<h1 class="text-center">{{ title }}</h1>
+				{{ content | safe }}
+			</div>
+		</div>
+	</div>
+
+	{% include "footer.njk" %}
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+	{% include "head.njk" %}
+</head>
+
+<body class="bg-base-300">
+	{% include "navbar.njk" %}
+
+	<div class="max-w-2xl my-10 mx-auto card bg-base-100 shadow-lg">
+		<div class="card-body">
+
+			<form name="{{ formname }}" method="POST" data-netlify="true" action="/contact/succes">
+				<input type="hidden" name="form-name" value="{{ formname }}">
+
+				<fieldset class="fieldset grid grid-cols-1 gap-4">
+					<legend class="fieldset-legend text-2xl">Contactformulier</legend>
+
+					<label for="naam" class="fieldset-label text-base-content text-lg">Naam</label>
+					<input type="text" class="input text-lg w-full" name="naam" id="naam" placeholder="Schrijf hier een naam"
+						required />
+
+
+					<label for="email" class="fieldset-label text-base-content text-lg">E-mailadres</label>
+					<input class="input text-lg validator w-full" type="email" name="email" id="email" required
+						placeholder="mail@site.nl" />
+					<div class="validator-hint text-lg">Vul een juist e-mailadres in</div>
+
+					<label for="nummer" class="fieldset-label text-base-content text-lg">Telefoonnummer (optioneel)</label>
+					<input class="input text-lg w-full" id="nummer" type="tel" name="nummer"
+						placeholder="06-12345678" />
+
+					<label for="bericht" class="fieldset-label text-base-content text-lg">Uw bericht</label>
+					<textarea name="bericht" id="bericht" class="textarea h-48 text-lg w-full" required></textarea>
+
+					<button type="submit" class="btn btn-primary center text-lg">Verstuur bericht</button>
+				</fieldset>
+			</form>
+		</div>
+	</div>
+
+	{% include "footer.njk" %}
+
+</html>

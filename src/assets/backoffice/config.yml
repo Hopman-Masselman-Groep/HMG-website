@@ -1,0 +1,31 @@
+backend:
+  # Use netlify identity as backend
+  name: git-gateway
+  branch: trunk
+  ### enable below lines for github integration ###
+  # name:
+  # repo: 
+media_folder: "public/"
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: upl
+    api_key: 864199774737865
+    default_transformations:
+      - - q
+
+# Please run "npx netlify-cms-proxy-server" for local backend
+local_backend: true
+
+collections:
+  - label: "Pages"
+    name: "pages"
+    folder: "src/pages"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }

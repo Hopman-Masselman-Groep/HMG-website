@@ -1,0 +1,91 @@
+@import url("https://rsms.me/inter/inter.css");
+@import "tailwindcss" source(none);
+@source "../../public/**/*.{html,js}";
+@plugin "@tailwindcss/typography";
+
+@plugin "daisyui" {
+	themes: light --default, dark --prefersdark;
+}
+
+html {
+	@apply bg-neutral;
+}
+
+@theme {
+	--font-sans:
+		Inter var, ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+		'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+	--card-fs: var(--text-base);
+	--cardtitle-fs: var(--text-2xl);
+}
+
+@plugin "daisyui/theme" {
+	name: "light";
+	default: true;
+	prefersdark: false;
+	color-scheme: "light";
+	--color-base-100: oklch(100% 0 0);
+	--color-base-200: oklch(96% 0.007 247.896);
+	--color-base-300: oklch(92% 0.013 255.508);
+	--color-base-content: oklch(0% 0 0);
+	--color-primary: oklch(44% 0.119 151.328);
+	--color-primary-content: oklch(100% 0 0);
+	--color-secondary: oklch(90% 0.182 98.111);
+	--color-secondary-content: oklch(27% 0.077 45.635);
+	--color-accent: oklch(43% 0.078 188.216);
+	--color-accent-content: oklch(95% 0.051 180.801);
+	--color-neutral: oklch(14% 0.005 285.823);
+	--color-neutral-content: oklch(92% 0.004 286.32);
+	--color-info: oklch(74% 0.16 232.661);
+	--color-info-content: oklch(29% 0.066 243.157);
+	--color-success: oklch(76% 0.177 163.223);
+	--color-success-content: oklch(37% 0.077 168.94);
+	--color-warning: oklch(82% 0.189 84.429);
+	--color-warning-content: oklch(41% 0.112 45.904);
+	--color-error: oklch(71% 0.194 13.428);
+	--color-error-content: oklch(27% 0.105 12.094);
+	--radius-selector: 0.5rem;
+	--radius-field: 0.5rem;
+	--radius-box: 1rem;
+	--size-selector: 0.28125rem;
+	--size-field: 0.3125rem;
+	--border: 1px;
+	--depth: 1;
+	--noise: 0;
+}
+
+
+@plugin "daisyui/theme" {
+	name: "dark";
+	default: false;
+	prefersdark: true;
+	color-scheme: "dark";
+	--color-base-100: oklch(21% 0.034 264.665);
+	--color-base-200: oklch(27% 0.033 256.848);
+	--color-base-300: oklch(37% 0.034 259.733);
+	--color-base-content: oklch(98% 0.002 247.839);
+	--color-primary: oklch(52% 0.154 150.069);
+	--color-primary-content: oklch(96% 0.018 272.314);
+	--color-secondary: oklch(90% 0.182 98.111);
+	--color-secondary-content: oklch(27% 0.077 45.635);
+	--color-accent: oklch(77% 0.152 181.912);
+	--color-accent-content: oklch(38% 0.063 188.416);
+	--color-neutral: oklch(14% 0.005 285.823);
+	--color-neutral-content: oklch(92% 0.004 286.32);
+	--color-info: oklch(74% 0.16 232.661);
+	--color-info-content: oklch(29% 0.066 243.157);
+	--color-success: oklch(76% 0.177 163.223);
+	--color-success-content: oklch(37% 0.077 168.94);
+	--color-warning: oklch(82% 0.189 84.429);
+	--color-warning-content: oklch(41% 0.112 45.904);
+	--color-error: oklch(71% 0.194 13.428);
+	--color-error-content: oklch(27% 0.105 12.094);
+	--radius-selector: 0.5rem;
+	--radius-field: 0.5rem;
+	--radius-box: 1rem;
+	--size-selector: 0.28125rem;
+	--size-field: 0.3125rem;
+	--border: 1px;
+	--depth: 1;
+	--noise: 0;
+}

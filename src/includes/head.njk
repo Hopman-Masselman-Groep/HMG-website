@@ -1,0 +1,29 @@
+<!-- Recommended -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- Title -->
+<title>{{ title }}</title>
+
+<!-- Styles -->
+<link rel="stylesheet" href="{{ '/style.css' | url }}" />
+
+<!-- Meta -->
+<meta name="description" content="{{ description if description else site.description }}" />
+<meta name="generator" content="{{ eleventy.generator }}" />
+
+<!-- Icons -->
+<link rel="icon" type="image/png" href="{{ '/favicon-96x96.png' | url }}" sizes="96x96" />
+<link rel="shortcut icon" href="{{ '/favicon.ico' | url }}" />
+<link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | url }}" />
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | url }}" />
+<meta name="apple-mobile-web-app-title" content="HMG" />
+<link rel="manifest" href="{{ '/site.webmanifest' | url }}" />
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ title }}" />
+<meta property="og:description" content="{{ description if description else site.description }}" />
+<meta property="og:image" content="{{ site.url }}/img/og-image.jpg" />
+<meta property="og:url" content="{{ site.url + page.url }}" />
+<meta name="twitter:card" content="summary_large_image" />
+
+
