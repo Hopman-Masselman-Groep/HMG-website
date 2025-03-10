@@ -1,3 +1,8 @@
+![Netlify Status](https://api.netlify.com/api/v1/badges/d48778c6-5d8e-4475-8e8e-6b946fb972a1/deploy-status)
+![Pull Requests](https://img.shields.io/github/issues-pr/Hopman-Masselman-Groep/HMG-website)
+![Total Successful Pull Requests](https://img.shields.io/github/issues-pr-closed/Hopman-Masselman-Groep/HMG-website)
+![Activity](https://img.shields.io/github/commit-activity/m/Hopman-Masselman-Groep/HMG-website)
+
 # HMG Website
 
 Website voor de Scouting Hopman Masselman Groep uit Soest.
