@@ -5,7 +5,7 @@ layout: page.njk
 ---
 
 <section class="hero min-h-[calc(100vh-12rem)] lg:min-h-auto"
-	style="background-image: url(https://res.cloudinary.com/upl/t_q/v1741293016/b2f849807b03afcbc5a8da63bf358ea4.jpg);">
+	style="background-image: url(https://res.cloudinary.com/upl/t_q/v1741293016/b2f849807b03afcbc5a8da63bf358ea4);">
 	<div class="hero-overlay"></div>
 	<div class="hero-content text-neutral-content text-center">
 		<div class="max-w-2xl my-24 lg:my-48">
@@ -43,7 +43,7 @@ layout: page.njk
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
 			<div class="card bg-base-100 shadow-lg">
 				<figure class="max-h-48">
-					<img src="https://res.cloudinary.com/upl/t_q/v1741630471/f9591e8196f921f94e401892fa60c192.jpg"
+					<img src="https://res.cloudinary.com/upl/t_qs/v1741630471/f9591e8196f921f94e401892fa60c192"
 						alt="De Duingalow" />
 				</figure>
 				<div class="card-body">
@@ -57,7 +57,7 @@ layout: page.njk
 			</div>
 			<div class="card bg-base-100 shadow-lg">
 				<figure class="max-h-48">
-					<img src="https://res.cloudinary.com/upl/t_q/v1741630611/c53f4837835c3fecd85f48eddda11121.jpg"
+					<img src="https://res.cloudinary.com/upl/t_qs/v1741630611/c53f4837835c3fecd85f48eddda11121"
 						alt="Vrijwilligers" />
 				</figure>
 				<div class="card-body">

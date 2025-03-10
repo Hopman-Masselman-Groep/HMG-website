@@ -19,7 +19,7 @@ Op het terrein kunnen maximaal vijf tenten worden bijgeplaatst.
 ### **De Duingalow**
 
 #### **Onderverdieping**
-![plattegrond onderverdieping](https://res.cloudinary.com/upl/t_q/v1741631206/a91a97cf73321770500820b9155c8863.png)
+![plattegrond onderverdieping](https://res.cloudinary.com/upl/t_q/v1741631206/a91a97cf73321770500820b9155c8863)
 
 De begane grond van de Duingalow ligt gedeeltelijk ondergronds, wat zorgt voor een aangename temperatuur, vooral in de zomer.
 
@@ -47,7 +47,7 @@ De keuken bevat:
 - Vier gezamenlijke douches
 
 #### **Bovenverdieping**
-![plattegrond bovenverdieping](https://res.cloudinary.com/upl/image/upload/v1741631205/7023e67d4186d4ed043f64b423610b8c.png)
+![plattegrond bovenverdieping](https://res.cloudinary.com/upl/t_q/v1741631205/7023e67d4186d4ed043f64b423610b8c)
 
 ##### **Beverhok**
 Een groot, open lokaal geschikt voor activiteiten en als slaapzaal. Eén van de dakramen fungeert als nooduitgang. De ruimte heeft veel ramen en is voorzien van kleine stoeltjes, houten bakken en schooltafeltjes.
