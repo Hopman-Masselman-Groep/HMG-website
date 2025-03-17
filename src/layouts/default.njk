@@ -8,14 +8,18 @@
 <body class="bg-base-300">
 	{% include "navbar.njk" %}
 
-	<div class="max-w-5xl my-10 mx-auto card bg-base-100 shadow-lg">
-		<div class="card-body">
-			<div class="prose prose-sm lg:prose-lg max-w-none">
-				<h1 class="text-center">{{ title }}</h1>
-				{{ content | safe }}
+	<main class="max-w-5xl my-10 mx-auto card bg-base-100 shadow-lg">
+		<section class="card-body" itemscope itemtype="https://schema.org/Article">
+			<div class="prose prose-sm lg:prose-lg max-w-none h-entry">
+				<h1 class="text-center p-name" itemprop="headline">{{ title }}</h1>
+				<div class="e-content" itemprop="articleBody">
+					{{ content | safe }}
+				</div>
 			</div>
-		</div>
-	</div>
+		</section>
+	</main>
 
 	{% include "footer.njk" %}
+
+</body>
 </html>
