@@ -1,5 +1,5 @@
 ---
 title: Bevers Contact
-description: Contact voor de Bevers
+description: Neem contact op met de Bevers
 formname: bevers
 ---
