@@ -7,6 +7,10 @@
 <!-- Styles -->
 <link rel="stylesheet" href="{{ '/style.css' | url }}" />
 <link rel="preconnect" href="https://rsms.me" />
+<link rel="preload" href="https://rsms.me/inter/inter.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript>
+	<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+</noscript>
 
 <!-- Meta -->
 <meta name="description" content="{{ description if description else site.description }}" />

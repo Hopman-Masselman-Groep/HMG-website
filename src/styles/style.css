@@ -1,4 +1,3 @@
-@import url("https://rsms.me/inter/inter.css");
 @import "tailwindcss" source(none);
 @source "../../public/**/*.{html,js}";
 @plugin "@tailwindcss/typography";
