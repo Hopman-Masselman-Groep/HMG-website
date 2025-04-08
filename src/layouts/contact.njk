@@ -15,7 +15,11 @@
 				<input type="hidden" name="form-name" value="{{ formname }}">
 
 				<fieldset class="fieldset grid grid-cols-1 gap-4">
-					<legend class="fieldset-legend text-2xl">Contactformulier</legend>
+					<legend class="fieldset-legend text-2xl">{{ title }}</legend>
+
+					<div class="text-sm prose">
+						{{ content | safe }}
+					</div>
 
 					<label for="naam" class="fieldset-label text-base-content text-lg">Naam</label>
 					<input type="text" class="input text-lg w-full" name="naam" id="naam" placeholder="Schrijf hier een naam"
