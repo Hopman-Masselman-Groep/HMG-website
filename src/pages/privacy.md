@@ -25,6 +25,12 @@ Tijdens opkomsten, kampen en andere activiteiten maken wij regelmatig foto's en 
 
 Bij inschrijving wordt via het aanmeldformulier toestemming gevraagd voor het gebruik van beeldmateriaal. Deze toestemming kan op elk moment worden aangepast of ingetrokken. We gaan zorgvuldig om met deze beelden en gebruiken ze nooit op een ongepaste of ongewenste manier.
 
+### Scouting Nederland
+Als aangesloten groep bij Scouting Nederland maken wij gebruik van landelijke systemen, zoals **Scouts Online (SOL)**, voor de administratie van leden en vrijwilligers. De verwerking van persoonsgegevens binnen deze systemen valt onder het privacybeleid van Scouting Nederland.
+
+Lees hier de volledige privacyverklaring van Scouting Nederland:
+- [🔗 www.scouting.nl/privacy](https://www.scouting.nl/privacy)
+
 ---
 
 ## Websiteanalyse zonder cookies
