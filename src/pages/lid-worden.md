@@ -25,17 +25,8 @@ Hier onder staan knoppen voor het contactformulier:
 
 {% include "speltakkencontact.njk" %}
 
-## Contributie
-
-De contributie voor het seizoen **2024/2025** bedraagt **€145,-** per jaar. Voor de Leeuwengarde is dit **€55,-** per jaar. Bij aanmelding halverwege het seizoen wordt de contributie naar rato berekend.
-
-## Huishoudelijk reglement
-
-Ons huishoudelijk reglement dient als aanvulling op de statuten en het [Huishoudelijk Reglement van Scouting Nederland](https://www.scouting.nl/bestuur/juridisch/huishoudelijk-reglement-en-statuten). Het reglement is uitsluitend van toepassing op de Hopman Masselman Groep te Soest en wordt beheerd door de groepsraad.
-- [Huishoudelijk Reglement van de Hopman Masselman Groep Soest](/hr)
-
 ## Lid worden
 
-Na de vrijblijvende kennismakingsperiode kun je je inschrijven als lid. Bij vragen kun je altijd terecht bij de leiding van de betreffende speltak of contact opnemen met onze secretaris.
+Na de vrijblijvende kennismakingsperiode kun je je inschrijven als lid. Bij vragen kun je altijd terecht bij de leiding van de betreffende speltak of contact opnemen met onze secretaris. Wil je meer weten over het lidmaatschap en de bijbehorende kosten? [Lees dan verder >>](/lidmaatschap)
 
 We hopen je binnenkort te verwelkomen bij Scouting Hopman Masselman Groep! 
