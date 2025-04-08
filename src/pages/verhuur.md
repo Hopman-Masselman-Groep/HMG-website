@@ -96,7 +96,7 @@ Voor de huur wordt een borg gevraagd. Deze borg bevestigt de reservering.
 
 ### **Verhuur Kalender**
 Op de volgende verhuurkalender kunt u zien wanneer het clubhuis al verhuurd is.
-<iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe/Amsterdam&showPrint=0&showTz=0&showCalendars=0&showTabs=1&showTitle=0&hl=nl&src=dmVyaHV1ckBobWctc29lc3Qubmw&color=%2300642E" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe/Amsterdam&showPrint=0&showTz=0&showCalendars=0&showTabs=1&showTitle=0&hl=nl&src=dmVyaHV1ckBobWctc29lc3Qubmw&color=%2300642E" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no" title="Verhuur Kalender"></iframe>
 
 ### **Wie mag er huren?**
 - Scoutinggroepen
