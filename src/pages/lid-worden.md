@@ -7,7 +7,7 @@ Ben je op zoek naar avontuur, vriendschap en persoonlijke groei? Bij Scouting Ho
 
 ## Onze speltakken
 
-De HMG heeft vijf verschillende speltakken, elk afgestemd op een specifieke leeftijdsgroep:
+De HMG heeft zes verschillende speltakken, elk afgestemd op een specifieke leeftijdsgroep:
 
 - **Bevers**: 5 tot 6.5 jaar
 - **Welpen**: 7 tot 10.5 jaar
