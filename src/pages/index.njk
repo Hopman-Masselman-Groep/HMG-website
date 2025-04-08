@@ -4,8 +4,12 @@ description: "Hopman Masselman Groep Soest is een Scoutinggroep voor jongens nab
 layout: page.njk
 ---
 
-<section class="hero min-h-[calc(100vh-12rem)] lg:min-h-auto" 
-	style="background-image: url(https://res.cloudinary.com/upl/t_q/v1741293016/b2f849807b03afcbc5a8da63bf358ea4);" 
+<section class="hero min-h-[calc(100vh-12rem)] lg:min-h-auto"
+	style="background-image: image-set(
+		url('https://res.cloudinary.com/upl/t_q/v1741293016/b2f849807b03afcbc5a8da63bf358ea4.avif') type('image/avif'),
+		url('https://res.cloudinary.com/upl/t_q/v1741293016/b2f849807b03afcbc5a8da63bf358ea4.webp') type('image/webp'),
+		url('https://res.cloudinary.com/upl/t_q/v1741293016/b2f849807b03afcbc5a8da63bf358ea4') type('image/jpeg')
+	);" 
 	aria-labelledby="hero-heading">
 	<div class="hero-overlay" aria-hidden="true"></div>
 	<div class="hero-content text-neutral-content text-center">
@@ -44,8 +48,14 @@ layout: page.njk
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
 			<article class="card bg-base-100 shadow-lg h-entry" aria-labelledby="verhuur-heading" itemscope itemtype="https://schema.org/Service">
 				<figure class="max-h-48">
-					<img src="https://res.cloudinary.com/upl/t_qs/v1741630471/f9591e8196f921f94e401892fa60c192"
-						alt="De Duingalow - ons clubhuis beschikbaar voor verhuur" class="u-photo" loading="lazy" />
+					<picture>
+						<source srcset="https://res.cloudinary.com/upl/t_qs/v1741630471/f9591e8196f921f94e401892fa60c192.avif" type="image/avif">
+						<source srcset="https://res.cloudinary.com/upl/t_qs/v1741630471/f9591e8196f921f94e401892fa60c192.webp" type="image/webp">
+						<img src="https://res.cloudinary.com/upl/t_qs/v1741630471/f9591e8196f921f94e401892fa60c192"
+							alt="De Duingalow - ons clubhuis beschikbaar voor verhuur"
+							class="u-photo"
+							loading="lazy" />
+					</picture>
 				</figure>
 				<div class="card-body">
 					<h3 id="verhuur-heading" class="card-title p-name" itemprop="name">Verhuur</h3>
@@ -59,8 +69,14 @@ layout: page.njk
 			</article>
 			<article class="card bg-base-100 shadow-lg h-entry" aria-labelledby="vrijwilliger-heading">
 				<figure class="max-h-48">
-					<img src="https://res.cloudinary.com/upl/t_qs/v1741630611/c53f4837835c3fecd85f48eddda11121"
-						alt="Vrijwilligers van de Scoutinggroep" class="u-photo" loading="lazy" />
+					<picture>
+						<source srcset="https://res.cloudinary.com/upl/t_qs/v1741630611/c53f4837835c3fecd85f48eddda11121.avif" type="image/avif">
+						<source srcset="https://res.cloudinary.com/upl/t_qs/v1741630611/c53f4837835c3fecd85f48eddda11121.webp" type="image/webp">
+						<img src="https://res.cloudinary.com/upl/t_qs/v1741630611/c53f4837835c3fecd85f48eddda11121"
+							alt="Vrijwilligers van de Scoutinggroep"
+							class="u-photo"
+							loading="lazy" />
+					</picture>
 				</figure>
 				<div class="card-body">
 					<h3 id="vrijwilliger-heading" class="card-title p-name">Vrijwilliger worden</h3>
