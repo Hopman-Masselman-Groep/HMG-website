@@ -82,6 +82,7 @@ leaflet: yes
             <script>
                 var HMGCoordinates = [52.1553162, 5.2994357];
                 var map = L.map('map').setView(HMGCoordinates, 15);
+                map.panBy(new L.Point(0, -(map.getSize().y*0.2)), {animate: false});
                 map.zoomControl.setPosition("bottomright");
                 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                     maxZoom: 19,
