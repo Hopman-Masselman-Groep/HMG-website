@@ -2,6 +2,7 @@
 title: Contact
 description: Neem contact op met de HMG Soest.
 layout: page.njk
+leaflet: yes
 ---
 
 
@@ -77,13 +78,50 @@ layout: page.njk
 	<section class="card bg-base-100 shadow-lg my-10">
 		<div class="card-body">
 			<h2 class="text-xl font-semibold mb-4">Locatie</h2>
-			<div class="aspect-w-16 aspect-h-9">
-				<iframe
-					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9791.382182689482!2d5.289136064565491!3d52.15531856611405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c64229ec4d8ddb%3A0x23f07f08398117fa!2sScouting%20Hopman%20Masselman%20Group!5e0!3m2!1sen!2snl!4v1741867055534!5m2!1sen!2snl"
-					width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-					referrerpolicy="no-referrer-when-downgrade" title="Map van de locatie van de HMG Soest"></iframe>
-				</iframe>
-			</div>
+			<div id="map" class="aspect-w-16 aspect-h-9" style="min-height: 450px"></div>
+            <script>
+                var HMGCoordinates = [52.1553162, 5.2994357];
+                var map = L.map('map').setView(HMGCoordinates, 16);
+                map.zoomControl.setPosition("bottomright");
+                L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    maxZoom: 19,
+                    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+                }).addTo(map);
+                L.marker(HMGCoordinates).addTo(map);
+                var tooltip = L.tooltip(HMGCoordinates, {content: '<strong>Scouting Hopman<br />Masselman Groep</strong>',permanent:true, direction:"auto", offset: [20, -12]})
+                    .addTo(map);
+                L.Control.Navigation = L.Control.extend({
+                    onAdd: function(map) {
+                        container = L.DomUtil.create('div', 'min-w-2xs rounded bg-base-100 shadow-sm');
+                        contents = L.DomUtil.create('section', 'card-body p-2', container)
+                            contents.innerHTML = `<p class="p-name org u-org" itemprop="name">
+    <strong>Hopman Masselman Groep</strong>
+</p>
+<p>
+    <address class="h-adr" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span class="p-street-address" itemprop="streetAddress">Sparrenlaan 22</span>, <br />
+        <span class="p-postal-code" itemprop="postalCode">3768 BG</span>
+        <span class="p-locality" itemprop="addressLocality">Soest</span>
+        <meta class="p-country-name" itemprop="addressCountry" content="Nederland" />
+    </address>
+    <a style="display:flex; line-height: 1.7em;" target="_blank" href="https://maps.google.com/maps/dir//Scouting+Hopman+Masselman+Group+Sparrenlaan+22+3768+BG+Soest/@52.1553162,5.2994357,14z">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6" style="display:inline; margin-left: -4px" role="img">
+<path fill-rule="evenodd" d="m11.54 22.351.07.04.028.016a.76.76 0 0 0 .723 0l.028-.015.071-.041a16.975 16.975 0 0 0 1.144-.742 19.58 19.58 0 0 0 2.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 0 0-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 0 0 2.682 2.282 16.975 16.975 0 0 0 1.145.742ZM12 13.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" clip-rule="evenodd" /></svg><span style="align-self: flex-end;">Google route beschrijving</span></a>
+</p> `;
+                        return container;
+                    },
+
+                    onRemove: function(map) {
+                        // Nothing to do here
+                    }
+                });
+
+                L.control.navigation = function(opts) {
+                    return new L.Control.Navigation(opts);
+                }
+
+                L.control.navigation({ position: 'topleft' }).addTo(map);
+            </script>
 		</div>
 	</section>
 </main>
