@@ -117,10 +117,24 @@ Nee, ieder team moet zijn eigen spullen meenemen.
 
 **Mag je andere materialen gebruiken dan hout en piotouw in je bouwerk?**  
 Speciale onderdelen mogen worden gebruikt onder de strikte voorwaarde dat het bouwwerk in de kern een pionier-object blijft. Daarnaast moet er worden voldaan aan minimaal 1 van onderstaande stellingen:  
-\- Het speciale onderdeel is uit decoratieve oogpunten noodzakelijk (Bijvoorbeeld: Een vooraf gezaagde propeller op een vliegtuig)  
-\- Het object zou onveilig zijn zonder het speciale onderdeel (Bijvoorbeeld: Het gebruik van ladders in torens, of staalkabel om hoge spanningen tijdelijk te dragen.)  
-\- Het speciale onderdeel is nodig om (onnodig) materiaal slijtage te voorkomen (Bijvoorbeeld: Het gebruik van katrollen om slijtage in touwen te voorkomen)  
-\- Het speciale onderdeel draagt positief bij aan -, en is nodig voor-, het functioneren van het object (Bijvoorbeeld: Een contragewicht bij een brug, of planken als plateau in een toren)
+- Het speciale onderdeel is puur decoratief  
+  Bijvoorbeeld:
+  - Vlaggen, spandoeken, borden
+  - Vooraf gezaagde propeller op een vliegtuig
+- Het object zou onveilig zijn zonder het speciale onderdeel  
+  Bijvoorbeeld:
+  - Ladders in torens
+  - Stempelplaten onder staanders ter voorkoming van verzakking
+  - Staalkabel om hoge spanningen tijdelijk te dragen
+- Het speciale onderdeel is nodig om materiaal slijtage te voorkomen  
+  Bijvoorbeeld:
+  - Katrollen om slijtage in touwen te voorkomen
+  - Metalen of PVC buis moffen rondom een paal als draaias
+  - Smeermiddel (bv. potje groene zeep)
+- Het speciale onderdeel draagt positief bij aan / is nodig voor het functioneren van het object  
+  Bijvoorbeeld:
+  - Een (contra)gewicht bij een brug
+  - Planken als plateau in een toren
 
 Het uitgangspunt blijft te allen tijde, dat het object voor veruit het grootste deel uit pionier hout en touw bestaat. Als je van plan bent andere zaken dan hout en piotouw te gebruiken, neem dit dan duidelijk op in je ontwerpbeschrijving en bouwplan.
 
