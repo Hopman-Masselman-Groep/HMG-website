@@ -1,7 +1,6 @@
 ---
 title: Verhuur
 description: Huur van het clubhuis, terrein en faciliteiten.
-date: 2025-04-30T21:39:00.000Z
 ---
 ## Faciliteiten
 

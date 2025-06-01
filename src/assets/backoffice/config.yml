@@ -1,3 +1,5 @@
+locale: 'nl'
+
 backend:
   name: github
   repo: Hopman-Masselman-Groep/HMG-website
@@ -25,5 +27,14 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "NKP"
+    name: "nkp"
+    folder: "src/pages/nkp"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
