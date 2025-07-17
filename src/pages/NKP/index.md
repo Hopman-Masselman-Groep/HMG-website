@@ -76,7 +76,7 @@ Van 15.22 tot 16.22 is er tijd voor het publiek, de teams en de jury om de bouww
 
 Het feest is afgerond om 24.00. Deelnemers kunnen vrijdag en zaterdag slapen in eigen tenten en in beperkte mate in de gebouwen van de HMG (vooraf reserveren).
 
-Deelnemen kost in 2025 rond de € 45,- per persoon: Teams betalen dus per deelnemer. Dit is inclusief logies indien gewenst, ontbijt, lunch en barbecue/diner op zaterdag en koffie en thee. Als supporters meewillen eten met de BBQ en naar het feest willen moeten ze zich vooraf via hun team, opgeven. Kosten zijn dan 15,- p.p. voor de BBQ incl drie consumpties.
+Deelnemen kost in 2026 rond de € 40,- per persoon: Teams betalen dus per deelnemer. Dit is inclusief logies indien gewenst, ontbijt, lunch en barbecue/diner op zaterdag en koffie en thee. Als supporters meewillen eten met de BBQ en naar het feest willen moeten ze zich vooraf via hun team, opgeven. Kosten zijn dan 15,- p.p. voor de BBQ incl drie consumpties.
 
 ## Aanmelden
 
