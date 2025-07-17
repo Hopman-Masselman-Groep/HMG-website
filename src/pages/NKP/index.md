@@ -48,7 +48,7 @@ Bekijk de aftermovie:
 
 <iframe class="video" width="100%" height="420" src="https://www.youtube.com/embed/kVWnJdCuCDA" frameborder="0" allowfullscreen></iframe>
 
-Vragen of aanmeldingen voor de editie van 2025? Gebruik het contactformulier **[Het Nederlands Kampioenschap Pionieren](/contact/NKP)**.
+Vragen of aanmeldingen voor de editie van 2026? Gebruik het contactformulier **[Het Nederlands Kampioenschap Pionieren](/contact/NKP)**.
 
 ## Meer informatie over het tournooi
 
