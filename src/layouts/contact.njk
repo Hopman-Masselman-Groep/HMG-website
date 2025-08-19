@@ -11,7 +11,7 @@
 	<div class="max-w-2xl my-10 mx-auto card bg-base-100 shadow-lg">
 		<div class="card-body">
 
-			<form name="{{ formname }}" method="POST" action="/contact/succes" netlify>
+			<form name="{{ formname }}" method="POST" action="/contact/succes" netlify-honeypot="cc" netlify>
 				<input type="hidden" name="form-name" value="{{ formname }}">
 
 				<fieldset class="fieldset grid grid-cols-1 gap-4">
@@ -38,6 +38,12 @@
 					<label for="bericht" class="fieldset-label text-base-content text-lg">Uw bericht</label>
 					<textarea name="bericht" id="bericht" class="textarea h-48 text-lg w-full" required></textarea>
 
+					<div class="hidden">
+						<label>
+							Niet invullen als je een mens bent: <input name="cc" type="text" />
+						</label>
+					</div>
+
 					<button type="submit" class="btn btn-primary center text-lg">Verstuur bericht</button>
 				</fieldset>
 			</form>
@@ -45,6 +51,7 @@
 	</div>
 
 	{% include "footer.njk" %}
-	
+
 </body>
+
 </html>
