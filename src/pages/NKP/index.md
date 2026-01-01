@@ -4,7 +4,7 @@ description: "Het grootste pionieren evenement van Nederland "
 ---
 ## **Inschrijving NKP 2026 is open**
 
-Kan jij goed pionieren? Ben je toe aan een uitdaging én een heel gezellig weekend? Vorm een team en schrijf in voor de editie van 2026. Op 20 juni 2026 treffen de beste pioniers elkaar in de Soester Duinen. Ben jij erbij? Voor de spanning, voor de eeuwige glorie, voor de gezelligheid, voor de geweldige bouwwerken, voor de uitdaging, voor de samenwerking én de voldoening als het lukt om in 10 uur een bouwwerk te maken dat imponeert!
+Kan jij goed pionieren? Ben je toe aan een uitdaging én een heel gezellig weekend? Vorm een team en schrijf in voor de editie van 2026. Op zaterdag 20 juni 2026 treffen de beste pioniers elkaar in de Soester Duinen. Ben jij erbij? Voor de spanning, voor de eeuwige glorie, voor de gezelligheid, voor de geweldige bouwwerken, voor de uitdaging, voor de samenwerking én de voldoening als het lukt om in 10 uur een bouwwerk te maken dat imponeert!
 
 ## **Willibrordus groep Gemert wint NKP25**
 
@@ -17,7 +17,9 @@ Kan jij goed pionieren? Ben je toe aan een uitdaging én een heel gezellig weeke
 5. De Camerons-Duinzwervers uit Overveen (Paviljoen met zwevende 6 poot) 
 6. De Hopman Masselman Groep uit Soest (Reuzerad)
 
-Het toernooi gaat om 5:22 van start bij het ochtendgloren. Om 15:22 worden de laatste knopen binnen de speltijd gelegd. In 2025wist Die Wiltgraeff de achterban goed te activeren en ging er met de titel Publieksfavoriet van door. En gebruik de links om foto's te bekijken.
+Het toernooi gaat om 5:22 van start bij het ochtendgloren. Om 15:22 worden de laatste knopen binnen de speltijd gelegd. In 2025 wist Die Wiltgraeff de achterban goed te activeren en ging er met de titel Publieksfavoriet van door. 
+
+Foto's bekijken?
 
 Alex Dingemanse maakte de volgende fotos's: NKP 2025: https://adobe.ly/4eLvViz  
 
