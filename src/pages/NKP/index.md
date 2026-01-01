@@ -21,9 +21,9 @@ Het toernooi gaat om 5:22 van start bij het ochtendgloren. Om 15:22 worden de la
 
 Foto's bekijken?
 
-Alex Dingemanse maakte de volgende fotos's: NKP 2025: https://adobe.ly/4eLvViz  
+Alex Dingemanse maakte de volgende fotos's: NKP 2025: [foto's NKP 2025 A.Dingemanse](https://adobe.ly/4eLvViz)  
 
-Jan Peereboom maakte deze rapprtage: https://www.facebook.com/share/p/1Cjk7Lc7SX/
+Jan Peereboom maakte deze rapprtage: [foto's NKP 2025 J.Peereboom](https://www.flickr.com/photos/34483693@N03/albums/72177720327306029/with/54629502483)
 
 Geïnteresseerd in wat voor mooie plaatjes dit Pionier-festijn kan opleveren? Kijk de after-movies!
 
