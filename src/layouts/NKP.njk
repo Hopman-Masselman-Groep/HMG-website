@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+	{% include "head.njk" %}
+</head>
+
+<body class="bg-base-300">
+	{% include "navbar.njk" %}
+
+	{% set navPages = collections.all | eleventyNavigation %}
+
+	<div class="max-w-6xl my-10 mx-auto px-4 lg:px-0 lg:grid lg:grid-cols-[220px_1fr] lg:gap-6 lg:items-start">
+
+		<nav>
+
+			{# mobile #}
+			<div class="collapse collapse-arrow bg-base-100 shadow-lg lg:hidden mb-4">
+				<input type="checkbox" aria-label="NKP paginanavigatie in/uitschakelen" />
+				<div class="collapse-title font-semibold">Pagina's</div>
+				<div class="collapse-content flex flex-col gap-1">
+					{%- for entry in navPages %}
+					<a href="{{ entry.url }}"
+						class="btn btn-sm justify-start {{ 'btn-secondary' if entry.url == page.url else 'btn-ghost' }}">
+						{{ entry.title }}
+					</a>
+					{%- endfor %}
+					<a href="/contact/NKP/" class="btn btn-sm justify-start">Inschrijven / Contact</a>
+				</div>
+			</div>
+
+			{# desktop #}
+			<div class="hidden lg:flex card bg-base-100 shadow-lg sticky top-6">
+				<div class="card-body p-4 gap-1">
+					<h2 class="card-title text-sm uppercase tracking-widest text-base-content/50 px-2">Pagina's</h2>
+					{%- for entry in navPages %}
+					<a href="{{ entry.url }}"
+						class="btn btn-sm justify-start {{ 'btn-secondary' if entry.url == page.url else 'btn-ghost' }}">
+						{{ entry.title }}
+					</a>
+					{%- endfor %}
+				</div>
+				<a href="/contact/NKP/" class="btn btn-sm btn-primary">Inschrijven / Contact</a>
+			</div>
+
+		</nav>
+
+		{# content #}
+		<main class="card bg-base-100 shadow-lg lg:px-4">
+			<section class="card-body" itemscope itemtype="https://schema.org/Article">
+				<div class="prose prose-sm lg:prose-lg max-w-none h-entry">
+					<h1 class="text-center p-name" itemprop="headline">{{ title }}</h1>
+					<div class="e-content" itemprop="articleBody">
+						{{ content | safe }}
+					</div>
+				</div>
+			</section>
+		</main>
+
+	</div>
+
+	{% include "footer.njk" %}
+
+</body>
+
+</html>
