@@ -39,4 +39,18 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
+      - label: "Navigation"
+        name: "eleventyNavigation"
+        widget: "object"
+        fields:
+          - label: "Naam"
+            name: "key"
+            widget: "string"
+            required: false
+            hint: "De naam die in de navigatie wordt weergegeven. Laat leeg om de pagina niet in de navigatie weer te geven."
+          - label: "Order"
+            name: "order"
+            widget: "number"
+            hint: "De volgorde van de pagina in de navigatie. Hoe lager het getal, hoe hoger de pagina in de navigatie staat."
+            required: false
       - { label: "Body", name: "body", widget: "markdown" }

@@ -2,9 +2,8 @@
 title: Jury pagina
 description: Wat doet een jury bij het NKP?
 eleventyNavigation:
-  key: Jury
+  key: De Jury
   order: 2
-  title: De Jury
 ---  
 ![Juryfoto](https://res.cloudinary.com/upl/t_q/v1744144038/ce63234b655a76e37362665914171baa)
 

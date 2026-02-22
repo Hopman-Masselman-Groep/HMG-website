@@ -2,9 +2,8 @@
 title: Het Nederlands Kampioenschap Pionieren
 description: "Het grootste pionieren evenement van Nederland "
 eleventyNavigation:
-  key: NKP
+  key: Het NKP
   order: 1
-  title: Het NKP
 ---
 ## **Inschrijving NKP 2026 is open**
 
