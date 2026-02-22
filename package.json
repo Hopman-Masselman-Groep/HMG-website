@@ -21,6 +21,7 @@
 	"type": "module",
 	"dependencies": {
 		"@11ty/eleventy": "^3.0.0",
+		"@11ty/eleventy-navigation": "^1.0.5",
 		"@tailwindcss/postcss": "^4.0.9",
 		"@tailwindcss/typography": "^0.5.16",
 		"cross-env": "^7.0.3",
