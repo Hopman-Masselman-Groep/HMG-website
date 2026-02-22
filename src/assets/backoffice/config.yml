@@ -17,6 +17,8 @@ media_library:
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
 
+logo_url: /favicon.svg
+
 collections:
   - label: "Pages"
     name: "pages"
