@@ -81,7 +81,7 @@ Van 15.22 tot 16.22 is er tijd voor het publiek, de teams en de jury om de bouww
 
 Het feest is afgerond om 24.00. Deelnemers kunnen vrijdag en zaterdag slapen in eigen tenten en in beperkte mate in de gebouwen van de HMG (vooraf reserveren).
 
-Deelnemen kost in 2026 rond de € 40,- per persoon: Teams betalen dus per deelnemer. Dit is inclusief logies indien gewenst, ontbijt, lunch en barbecue/diner op zaterdag en koffie en thee. Als supporters meewillen eten met de BBQ en naar het feest willen moeten ze zich vooraf via hun team, opgeven. Kosten zijn dan 15,- p.p. voor de BBQ incl drie consumpties.
+Deelnemen kost in 2026 rond de € 35,- per persoon: Teams betalen dus per deelnemer. Dit is inclusief logies indien gewenst, ontbijt, lunch en barbecue/diner op zaterdag en koffie en thee. Als supporters meewillen eten met de BBQ en naar het feest willen moeten ze zich vooraf via hun team, opgeven. Kosten zijn dan 15,- p.p. voor de BBQ incl drie consumpties.
 
 ## Aanmelden
 
@@ -155,7 +155,7 @@ Speciale onderdelen mogen worden gebruikt onder de strikte voorwaarde dat het bo
 Het uitgangspunt blijft te allen tijde, dat het object voor veruit het grootste deel uit pionier hout en touw bestaat. Als je van plan bent andere zaken dan hout en piotouw te gebruiken, neem dit dan duidelijk op in je ontwerpbeschrijving en bouwplan.
 
 **Wat zijn de jury beoordelingsnormen voor de wedstrijd?**\
-Dit staat in onder het kopje jurering. Heb je feedback voor de jury? Laat het ons weten!\
+Heb je feedback voor de jury? Laat het ons weten!\
 Categorie en weging
 
 * Aangezicht 25%
@@ -177,22 +177,21 @@ Ja, alle aangemelde teams krijgen t.z.t. een verzoek om hun bouwwerk te beschrij
 Als er meer dan 10 teams inschrijven maken we op basis van de bouwplannen een voorselectie. Er kunnen maximaal 10 teams deelnemen om de organisatie voldoende overzichtelijk te houden.
 
 **Wanneer sluit de inschrijving?**\
-De inschrijving sluit zaterdag 5 april 2025(24.00). Dan moeten ook alle ontwerpen, bouw- en veiligheidsplannen binnen zijn.
+De inschrijving voor de Master League sluit zaterdag 18 april 2026 (24:00). Dan moeten ook alle ontwerpen, bouw- en veiligheidsplannen binnen zijn. De Classic League inschrijving sluit zaterdag 16 mei (24:00)
 
 **Wanneer weten we op zijn laatst of we zijn geselecteerd voor het NKP met ons ontwerp?**\
-Zaterdag 26 april 2025 krijgen alle aanmelders te horen of hun ontwerp wel of niet geselecteerd is. Jullie inschrijving is pas definitief als je hebt betaald.
+Zaterdag 9 mei 2026 krijgen alle aanmelders van de Master League te horen of hun ontwerp wel of niet geselecteerd is. De Classic League hoort dit direct bij aanmelding, hierbij geldt: Wie het eerst aanmeld die het eerst mag meedoen. Jullie inschrijving is pas definitief als je hebt betaald.
 
-**Wij hebben geen team van 10 mensen, maar minder. Mag dat, en betaal je dan evenveel als een team van 10?**\
-Je mag meedoen met een team van minder dan 10 deelnemers. De bijdrage is 45 euro per deelnemer, dus bij minder teamleden betaal je ook minder.
+**Wij hebben geen team van 10 mensen, maar minder. Mag dat, en betaal je dan evenveel als een team van 10?** Bij de Master League Je mag meedoen met een team van minder dan 10 deelnemers. De bijdrage is 45 euro per deelnemer, dus bij minder teamleden betaal je ook minder. Ook voor de Classic League geld dat minder dan 6 deelnemers mag, en dat je dan minder betaald. Voor de beperkte tijd (6 uur) die je hebt om te bouwen voor de Classic League en het voorgeschreven ontwerp, adviseren we wel met écht een team van minimaal 6 bouwers te formeren.
 
 **Wij hebben geen team van 10 mensen, maar meer. Mag dat?**\
-Je mag meedoen met een team van 10 deelnemers, aangevuld met maximaal 2 wisselspelers. Nog altijd mogen er maximaal 10 personen tegelijk in het bouwvak komen. Het doel hiervan is om geen pio-fanaten thuis te hoeven laten, maar je mag hier geen noemenswaardig voordeel uit halen.
+Je mag meedoen met een team van 10 deelnemers, aangevuld met maximaal 2 wisselspelers. Er mogen maximaal 10 personen tegelijk in het bouwvak komen. Het doel hiervan is om geen pio-fanaten thuis te hoeven laten, maar dat teams hier geen noemenswaardig voordeel uit halen (het voordeel van afwisseling om even uit te kunnen rusten daargelaten).
 
 **Mogen we supporters meenemen?**\
 Iedereen is welkom, toegang is gratis voor toeschouwers. Als je supporters mee wilt nemen die willen blijven slapen, mee bbq-en of iets dergelijks, geef dit dan door bij de aanmelding. Zij betalen dan naar rato mee.
 
 **Er is een feest na de wedstrijd, na de barbecue. Is dat alleen voor deelnemers?**\
-Alle inschrijvende teams (dus ook de niet geselecteerde) krijgen een uitnodiging om te komen kijken op het NKP en om deel te nemen aan de barbecue en het feest. Ook de supporters die meegereisd zijn met hun team zijn welkom op het feest.
+Alle inschrijvende teams (dus ook de niet geselecteerde) krijgen een uitnodiging om te komen kijken op het NKP en om deel te nemen aan de barbecue en het feest. Ook de supporters die meegereisd zijn met hun team zijn welkom op het feest. Het is een besloten feest, dus er kunnen geen mensen deelnemen aan het feest als ze niet betrokken/verbonden zijn aan de deelnemende teams of de organisatie.
 
 **Kunnen we blijven slapen met ons team?**\
 Ja, er is gelegenheid om op ons terrein jullie tent op te zetten en te blijven slapen. Geef dit aan bij jullie aanmelding, zodat we voldoende plekken reserveren.
