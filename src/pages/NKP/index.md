@@ -1,6 +1,6 @@
 ---
 title: Het Nederlands Kampioenschap Pionieren
-description: "Het grootste pionieren evenement van Nederland "
+description: "Het grootste pionier-evenement van Nederland "
 eleventyNavigation:
   key: Het NKP
   order: 1
