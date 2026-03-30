@@ -1,4 +1,5 @@
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
+import embedEverything from "eleventy-plugin-embed-everything";
 
 export default function (eleventyConfig) {
 
@@ -7,6 +8,7 @@ export default function (eleventyConfig) {
 	
 	// Plugins
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
+	eleventyConfig.addPlugin(embedEverything, {});
 
 	return {
 		dir: {

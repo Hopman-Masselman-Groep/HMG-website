@@ -34,7 +34,7 @@ Geïnteresseerd in wat voor mooie plaatjes dit Pionier-festijn kan opleveren? Ki
 
 Bekijk de aftermovie van het NKP 2024:
 
-<iframe class="video" width="100%" height="420" src="https://www.youtube.com/embed/TNPdol2e8Q8" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=TNPdol2e8Q8
 
 * Inspiratie nodig? [Alle bouwplannen en einduitslagen](https://drive.google.com/drive/folders/1qS8uI4A4j5HpJI0HodvS7JTD9lAmuCNs)
 
@@ -42,7 +42,7 @@ Bekijk de aftermovie van het NKP 2024:
 
 Bekijk de aftermovie van 2023 (Reuzenrad, Molen, Mijnschacht-toren én een bloem):
 
-<iframe class="video" width="100%" height="420" src="https://www.youtube.com/embed/6FcsHanUTGg" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=6FcsHanUTGg
 
 ## 2019
 
@@ -51,7 +51,7 @@ In 2019 organiseerde de HMG voor het eerst het Nederlands Kampioenschap Pioniere
 
 Bekijk de aftermovie:
 
-<iframe class="video" width="100%" height="420" src="https://www.youtube.com/embed/kVWnJdCuCDA" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=kVWnJdCuCDA
 
 Vragen of aanmeldingen voor de editie van 2026? Gebruik het contactformulier **[Het Nederlands Kampioenschap Pionieren](/contact/NKP)**.
 
