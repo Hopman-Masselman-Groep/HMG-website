@@ -1,10 +1,11 @@
 ---
-title: Jury pagina
+title: De Jury
 description: Wat doet een jury bij het NKP?
 eleventyNavigation:
   key: De Jury
   order: 2
 ---  
+
 ![Juryfoto](https://res.cloudinary.com/upl/t_q/v1744144038/ce63234b655a76e37362665914171baa)
 
 Het doel van de jurering is om het meest complexe en indrukwekkende bouwwerk te laten winnen. Dit is een hele uitdaging, daarom hebben we dit jury kader ontwikkeld. De beoordeling wordt onderverdeeld in 5 categorieën en wordt er gebruik gemaakt van een transparante beoordeling waar jullie deelnemers zelf aan bijdragen.

@@ -9,53 +9,9 @@ eleventyNavigation:
 
 Kan jij goed pionieren? Ben je toe aan een uitdaging én een heel gezellig weekend? Vorm een team en schrijf in voor de editie van 2026. Op zaterdag 20 juni 2026 treffen de beste pioniers elkaar in de Soester Duinen. Ben jij erbij? Voor de spanning, voor de eeuwige glorie, voor de gezelligheid, voor de geweldige bouwwerken, voor de uitdaging, voor de samenwerking én de voldoening als het lukt om in 10 uur een bouwwerk te maken dat imponeert!
 
-## **Willibrordus groep Gemert wint NKP25**
+{% include "NKPinschrijven.njk" %}
 
-### Eindstand 2025:
-
-1. De Willibrordusgroep uit Gemert (Schommelschip De Halve Maen)  
-2. De Polarisgroep uit Heerenveen (Tower Bridge)  
-3. Die Wiltgraeff uit Wageningen (Tredradkraan)
-4. APV uit Goringhem (Schommelschip)  
-5. De Camerons-Duinzwervers uit Overveen (Paviljoen met zwevende 6 poot) 
-6. De Hopman Masselman Groep uit Soest (Reuzerad)
-
-Het toernooi gaat om 5:22 van start bij het ochtendgloren. Om 15:22 worden de laatste knopen binnen de speltijd gelegd. In 2025 wist Die Wiltgraeff de achterban goed te activeren en ging er met de titel Publieksfavoriet van door. 
-
-Foto's bekijken?
-
-Alex Dingemanse maakte de volgende fotos's: NKP 2025: [foto's NKP 2025 A.Dingemanse](https://adobe.ly/4eLvViz)  
-
-Jan Peereboom maakte deze rapprtage: [foto's NKP 2025 J.Peereboom](https://www.flickr.com/photos/34483693@N03/albums/72177720327306029/with/54629502483)
-
-Geïnteresseerd in wat voor mooie plaatjes dit Pionier-festijn kan opleveren? Kijk de after-movies!
-
-### Aftermovie 2024
-
-Bekijk de aftermovie van het NKP 2024:
-
-https://www.youtube.com/watch?v=TNPdol2e8Q8
-
-* Inspiratie nodig? [Alle bouwplannen en einduitslagen](https://drive.google.com/drive/folders/1qS8uI4A4j5HpJI0HodvS7JTD9lAmuCNs)
-
-### Aftermovie 2023
-
-Bekijk de aftermovie van 2023 (Reuzenrad, Molen, Mijnschacht-toren én een bloem):
-
-https://www.youtube.com/watch?v=6FcsHanUTGg
-
-## 2019
-
-In 2019 organiseerde de HMG voor het eerst het Nederlands Kampioenschap Pionieren. De 5 deelnemende teams bouwden een toren, De Héf (de beroemde hefbrug uit Rotterdam), een vliegtuig, en paviljoen met vliegende vlaggenmast en een kopie van de magere-brug in Amsterdam! werd uiteindelijk de Scoutinggroep Jan Wandelaar uit Zeewolde de kampioen. Dat zijn ze nu dus al 3 jaar!
-![NKP 2019](https://res.cloudinary.com/upl/t_q/v1744144039/4573a3780df818ba4aa3ceb852482dbb)
-
-Bekijk de aftermovie:
-
-https://www.youtube.com/watch?v=kVWnJdCuCDA
-
-Vragen of aanmeldingen voor de editie van 2026? Gebruik het contactformulier **[Het Nederlands Kampioenschap Pionieren](/contact/NKP)**.
-
-## Meer informatie over het tournooi
+## Informatie over het tournooi
 
 Vanaf het eerste ochtendlicht (5.22) start de wedstrijd voor maximaal 10 teams, om gedurende 10 uur (dus stipt tot 15:22) een uitdagend object te pionieren in de Soester Duinen. Het bouwterrein is bij de brandgang bij de Sparrenlaan/HMG.
 
@@ -66,8 +22,6 @@ De teams maken in maximaal 10 uur een pioniersobject in één van de deelnemersv
 Alleen teamleden mogen tijdens de wedstrijd en de expositietijd de wedstrijdvakken betreden. Toeschouwers blijven buiten de vakken. Er is rond de wedstrijdvakken een veiligheidsrand van minimaal 3 meter buiten elk wedstrijdvlak.
 
 Als er meer dan 10 teams willen meedoen worden de 10 meest uitdagende ontwerpen gekozen. Elk team moet dus vooraf hun ontwerp en bouwplan indienen bij de wedstrijdleiding.
-
-[Lees meer over jurering en veiligheid](/NKP/jury)
 
 ![Juryfoto](https://res.cloudinary.com/upl/t_q/v1744144038/ce63234b655a76e37362665914171baa)
 
@@ -93,30 +47,6 @@ Aanmelden doe je door een bericht te sturen via het contactformulier naar **[Het
 * Het bouwmateriaal van elk team moet door het team op de bouwlocatie worden gebracht.
 * De draagconstructie van het uiteindelijke bouwwerk moet bestaan uit hout en touw. Tijdens de bouw en in de constructie mogen ook andere (vaker gebruikte) materialen worden gebruikt, zoals katrollen, ladders. Dit als het nodig is voor de veiligheid, om onnodige slijtage te voorkomen, omdat het bijdraagt aan het functioneren van het object of uit decoratief oogpunt nodig is (bijv. propellor van een vliegtuig). Van te voren geconstrueerde onderdelen, (zoals, spanten, hangfietsen, stalen platen/vlonders) zijn niet toegestaan. Heb je een verzoek tot dispensatie op deze regel, neem dan vooraf contact op met de wedstrijdleiding.
 * Ieder team levert van te voren een bouwplan aan bij de jury.
-
-## Jurering
-
-Hier staat in het kort hoe de jurering is opgezet. Een toelichting en uitgebreide uitleg is te vinden op de *[jurypagina](/NKP/jury)*.\
-Het juryformulier helpt om de teams te beoordelen op de verschillende bouwwerken. Het algehele doel is dat het meest complexe, indrukwekkende en technisch vaardigste bouwwerk wint. De lat hoog leggen moet uitbetaald worden mits de uitvoering er niet van ten koste gaat. Om dit doel te halen, is de score onderverdeeld in vijf categorieën:
-
-Categorie en weging
-
-* Aangezicht 25%
-* Constructie 25%
-* Technieken 20%
-* Bouwproces 15%
-* Samenwerking 15%
-
-**Veiligheid**\
-De veiligheid heeft een harde ondergrens.\
-Het is geen onderdeel van beoordeling maar moet ten alle tijde gewaarborgd worden.\
-De veiligheid wordt gewaarborgd door de veiligheidscoördinator.\
-Minimale veiligheidseisen:
-
-* Op hoogte (voeten hoger dan 2,5 m) wordt altijd gezekerd gewerkt (altijd min. 1 zekerpunt vast)
-* In en rondom een constructie waar er bouwdelen boven het hoofd komen dient iedereen met een helm te werken.
-
-De veiligheidscoördinator heeft de bevoegdheid om te oordelen over de veiligheid en zo nodig het bouwproces stil te leggen. Voor de jurering geldt: Als er onveilig wordt gewerkt kunnen er punten worden afgetrokken. Extra toelichting is te vinden op de *[jurypagina](/NKP/jury)*.
 
 ## Veel gestelde vragen
 
