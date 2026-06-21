@@ -5,11 +5,11 @@ eleventyNavigation:
   key: Het NKP
   order: 1
 ---
-## **Inschrijving NKP 2026 is open**
+## **NKP 2026 is weer voorbij**
 
-Kan jij goed pionieren? Ben je toe aan een uitdaging én een heel gezellig weekend? Vorm een team en schrijf in voor de editie van 2026. Op zaterdag 20 juni 2026 treffen de beste pioniers elkaar in de Soester Duinen. Ben jij erbij? Voor de spanning, voor de eeuwige glorie, voor de gezelligheid, voor de geweldige bouwwerken, voor de uitdaging, voor de samenwerking én de voldoening als het lukt om in 10 uur een bouwwerk te maken dat imponeert!
+Bekijk de aftermovie:
 
-{% include "NKPinschrijven.njk" %}
+https://www.youtube.com/watch?v=RyQDctkNxZA
 
 ## Informatie over het tournooi
 

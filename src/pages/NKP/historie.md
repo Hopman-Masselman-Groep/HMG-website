@@ -6,11 +6,22 @@ eleventyNavigation:
   order: 3
 ---
 
-## **Willibrordus groep Gemert wint NKP25**
+**Willibrordus groep Gemert wint NKP26!**
 
-![Uitreiking](https://res.cloudinary.com/upl/t_qs/v1775321955/835ce523aac81c99273a4496a34a6249)
+![Winnaarsfoto](https://res.cloudinary.com/upl/t_qs/v1782048522/9e2f9c13c4ea79e29fa6510fa46e1da2)
+
+## De eindstand:
+
+1. Willibrordus (Gemert) - Paard van Troje
+2. Jan Wandelaar (Zeewolde) - Hijskraan
+3. Wiltgraeff (Wageningen) - Viskotter
+4. Pionier Pro's HMG (Soest) - Arc de Triomphe
+
+In 2026 ging de wiltgraeff er met de titel Publieksfavoriet van door.
 
 ### Eindstand 2025:
+
+![Uitreiking](https://res.cloudinary.com/upl/t_qs/v1775321955/835ce523aac81c99273a4496a34a6249)
 
 1. De Willibrordusgroep uit Gemert (Schommelschip De Halve Maen)  
 2. De Polarisgroep uit Heerenveen (Tower Bridge)  
@@ -19,7 +30,7 @@ eleventyNavigation:
 5. De Camerons-Duinzwervers uit Overveen (Paviljoen met zwevende 6 poot) 
 6. De Hopman Masselman Groep uit Soest (Reuzerad)
 
-Het toernooi gaat om 5:22 van start bij het ochtendgloren. Om 15:22 worden de laatste knopen binnen de speltijd gelegd. In 2025 wist Die Wiltgraeff de achterban goed te activeren en ging er met de titel Publieksfavoriet van door.
+In 2025 wist Die Wiltgraeff de achterban goed te activeren en ging er met de titel Publieksfavoriet van door.
 
 ## Beeldmateriaal
 
@@ -28,6 +39,12 @@ Alex Dingemanse maakte de volgende fotos's: NKP 2025: [foto's NKP 2025 A.Dingema
 Jan Peereboom maakte deze rapprtage: [foto's NKP 2025 J.Peereboom](https://www.flickr.com/photos/34483693@N03/albums/72177720327306029/with/54629502483)
 
 Geïnteresseerd in wat voor mooie plaatjes dit Pionier-festijn kan opleveren? Kijk de after-movies!
+
+### Aftermovie 2026
+
+Bekijk de aftermovie van het NKP 2026:
+
+https://www.youtube.com/watch?v=RyQDctkNxZA
 
 ### Aftermovie 2025
 
@@ -41,7 +58,7 @@ Bekijk de aftermovie van het NKP 2024:
 
 https://www.youtube.com/watch?v=TNPdol2e8Q8
 
-* Inspiratie nodig? [Alle bouwplannen en einduitslagen](https://drive.google.com/drive/folders/1qS8uI4A4j5HpJI0HodvS7JTD9lAmuCNs)
+* Inspiratie nodig? [Alle bouwplannen en einduitslagen](https://drive.google.com/drive/folders/10vONsTW_gtbQo76tG-L-_us-kUJAC-Ns)
 
 ### Aftermovie 2023
 
